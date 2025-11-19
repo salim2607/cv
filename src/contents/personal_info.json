@@ -1,7 +1,7 @@
 {
   "name": "Salim Titouche",
   "profession": "Développeur Full Stack",
-  "summary": "Animé par une passion pour l'informatique, particulièrement pour le développement web, je suis constamment motivé à approfondir mes connaissances dans ce domaine. Je suis persuadé de pouvoir apporter une contribution significative à tout projet auquel je participe.",
+  "summary": "Étudiant en dernière année de Master MIAGE, je recherche un stage d’une durée de 6 mois ou plus, disponible à partir de janvier 2026. Je souhaite mettre en pratique mes compétences en développement, en gestion de projet et en analyse de données. Motivé, rigoureux et autonome, je m’engage à contribuer activement aux missions de l’entreprise tout en développant mon expertise professionnelle.",
   "mail": "titouche.ts@gmail.com",
   "phone": "07 48 59 43 12",
   "address": {
@@ -10,7 +10,7 @@
   },
   "personal_site": {
     "title": "portfolio-sailm-titouche.vercel.app",
-    "url": "https://portfolio-sailm-titouche.vercel.app"
+    "url": "https://portfolio-salim-titouche.vercel.app/"
   },
   "github": {
     "title": "github.com/salim2607",
@@ -18,7 +18,7 @@
   },
   "linkedin": {
     "title": "linkedin.com/in/sailm-titouche-5b2131251",
-    "url": "https://www.linkedin.com/in/sailm-titouche-5b2131251"
+    "url": "/sailm-titouche-5b2131251"
   },
   "photo": "img/photo.png"
 }
