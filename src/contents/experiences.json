@@ -1,0 +1,55 @@
+[{
+  "company": "Sofratel",
+  "role": "Data Analyst (Stage)",
+  "date": "Juin 2025 - Août 2025",
+  "location": "France",
+  "description_bullets": [
+    "Élaboration de plans d'analyse : échantillonnage et définition des variables métier",
+    "Data processing avec SQL, Python (Pandas) et Excel",
+    "Définition et suivi des KPIs via dashboards Power BI",
+    "Communication régulière des insights aux parties prenantes",
+    "Création de rapports décisionnels synthétiques pour la prise de décision"
+  ]
+}, {
+  "company": "Ekrili (Startup)",
+  "role": "Développeur IA & Data",
+  "date": "Septembre 2022 - Août 2023",
+  "location": "Algérie",
+  "description_bullets": [
+    "Conception de pipelines ETL pour l'ingestion et le traitement de données immobilières",
+    "Développement de modèles de prédiction des prix (Random Forest, XGBoost)",
+    "Création d'un moteur de recommandation personnalisé pour la plateforme de location",
+    "Intégration des fonctionnalités data via API REST en collaboration avec l'équipe web"
+  ]
+}, {
+  "company": "Algérie Télécom",
+  "role": "Optimisation de Bases de Données (Stage)",
+  "date": "Juillet 2022 - Août 2022",
+  "location": "Algérie",
+  "description_bullets": [
+    "Analyse des performances SQL du système de gestion des abonnés",
+    "Réécriture et indexation des requêtes pour améliorer les performances",
+    "Mise en place de procédures de test pour valider la qualité des données",
+    "Documentation technique détaillée sur les optimisations effectuées"
+  ]
+}, {
+  "company": "White bay limited",
+  "role": "Stagiaire Développeur Web",
+  "date": "Avril 2021 - Septembre 2021",
+  "location": "Algérie",
+  "description_bullets": [
+    "Conception et mise en œuvre d'une plateforme web de gestion de projet, en utilisant la stack MERN (MongoDB, Express, React, Node.js)",
+    "Collaboration en équipe agile avec utilisation de JIRA pour la gestion des tâches",
+    "Participation à la rédaction des spécifications fonctionnelles détaillées (SFD) et au chiffrage des tâches"
+  ]
+}, {
+  "company": "Université M'hammed Bougara Boumerdes",
+  "role": "Enseignant vacataire",
+  "date": "Octobre 2023 - Juillet 2024",
+  "location": "Boumerdes, Algérie",
+  "description_bullets": [
+    "Enseignement des modules d'algorithmes et de bases de données",
+    "Élaboration, encadrement et évaluation des TP et projets étudiants",
+    "Vulgarisation de concepts techniques pour un public universitaire"
+  ]
+}]

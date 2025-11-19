@@ -1,0 +1,16 @@
+[{
+  "name": "Entrepôt de Données Musical",
+  "description_bullets": [
+    "Conception d'un entrepôt de données pour analyser les performances de playlists",
+    "Pipeline ETL pour l'ingestion et le traitement des données",
+    "Requêtes SQL avancées et dashboard Power BI pour visualisation des tendances",
+    "Analyse temporelle multi-granulaire (jour/mois/trimestre)"
+  ]
+}, {
+  "name": "Data Scraping & Préparation Automatisée",
+  "description_bullets": [
+    "Collecte de données structurées via Beautiful Soup",
+    "Nettoyage, normalisation et feature engineering",
+    "Automatisation du pipeline de mise à jour des données"
+  ]
+}]

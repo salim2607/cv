@@ -1,0 +1,23 @@
+[{
+  "name": "Projet de gestion de commandes avec Kafka",
+  "description_bullets": [
+    "Conception et développement d'un système de gestion de commandes distribué avec Apache Kafka",
+    "Mise en place d'une architecture orientée évènements pour assurer la communication entre les services",
+    "Développement des microservices en Java (Spring Boot)",
+    "Intégration de Kafka pour la transmission en temps réel des événements de commande"
+  ]
+}, {
+  "name": "Application web de gestion de restaurant",
+  "description_bullets": [
+    "Conception et développement d'une application web complète pour la gestion des commandes et des stocks",
+    "Collaboration en équipe agile avec utilisation de JIRA pour la gestion des tâches",
+    "Implémentation d'une interface utilisateur moderne et ergonomique avec Angular",
+    "Développement d'un backend robuste en Spring Boot"
+  ]
+}, {
+  "name": "Plateforme de location de maisons et réservation de chambres d'hôtel",
+  "description_bullets": [
+    "Conception et mise en œuvre d'une plateforme de location de maisons et réservation de chambres d'hôtel",
+    "Utilisation de Next.js, Node.js, Express, MongoDB et React Native"
+  ]
+}]
